@@ -1,0 +1,64 @@
+{
+  "restaurantes": [
+    {
+      "id": 1,
+      "nombre": Mesón,
+      "descripcion": Bla bla bla 1
+    },
+    {
+      "id": 2,
+      "nombre": Embarcadero,
+      "descripcion": Bla bla bla 2
+    },
+    {
+      "id": 3,
+      "nombre": Kioskos,
+      "descripcion": Bla bla bla 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "nombre": Juan David Murillo,
+      "tipo": admin
+    },
+    {
+      "id": 2,
+      "nombre": Juan David Cabrera,
+      "tipo": admin
+    },
+    {
+      "id": 3,
+      "nombre": Kevin Roa,
+      "tipo": admin
+    },
+    {
+      "id": 4,
+      "nombre": Pepe Pepito,
+      "tipo": user
+    }
+  ],
+  "photos": [
+    {
+      "id": 1,
+      "url": ""
+    }
+  ],
+  "main-info": [
+    {
+      "id": 1,
+      "for": meson,
+      "content": This is the test API
+    },
+    {
+      "id": 2,
+      "for": embarcadero,
+      "content": This is the test API
+    },
+    {
+      "id": 3,
+      "for": kioskos,
+      "content": This is the test API
+    }
+  ]
+}
