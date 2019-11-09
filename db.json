@@ -3,17 +3,17 @@
     {
       "id": 1,
       "nombre": "Mesón",
-      "descripcion": "Bla bla bla 1"
+      "descripcion": "El restaurante más grande de la Universidad, es de tipo 'buffet' pero también tiene opciones a la carta. Cuenta con varias mesas al aire libre, excelente para almorzar en compañía de tus amigos."
     },
     {
       "id": 2,
       "nombre": "Embarcadero",
-      "descripcion": "Bla bla bla 2"
+      "descripcion": "Este es el restaurante más central, está cerca a la biblioteca y entre los edificios G y E. Cuenta con mesas al aire libre cerca al rio y mesas bajo techo. Ofrece platos a la carta y menú del día."
     },
     {
       "id": 3,
       "nombre": "Kioskos",
-      "descripcion": "Bla bla bla 3"
+      "descripcion": "Esta es la parrilla de nuestra Universidad. Se encuentra cerca al edificio A y justo al lado del Ágora, cuenta con excelentes opciones para los amantes de la carne sin descuidar a los comensales vegetarianos. "
     }
   ],
   "users": [
